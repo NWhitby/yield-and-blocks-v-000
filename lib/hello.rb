@@ -13,3 +13,4 @@ end
 end
 
 # call your method here!
+hello(['t1', 't2', 't3'])
