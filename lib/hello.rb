@@ -13,4 +13,3 @@ end
 end
 
 # call your method here!
-hello_t(['t1', 't2', 't3'])
